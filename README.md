@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nico
 - 👀 I’m interested in coding and learning new stuff
-- 🌱 I’m currently learning a professional software developer
+- 🌱 I’m currently a professional software developer
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me ... gidudunicholas11@gmail.com
 
