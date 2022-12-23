@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nico
+- 👋 Hi, I’m Nico
 - 👀 I’m interested in coding and learning new stuff
 - 🌱 I’m currently a professional software developer
 - 💞️ I’m looking to collaborate on with other developers
