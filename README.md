@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me ... gidudunicholas11@gmail.com
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicopee)](https://github.com/Nicopee/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicopee)](https://github.com/Nicopee/github-readme-stats&show_icons=true)
 
 <!---
 Nicopee/Nicopee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
