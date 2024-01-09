@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me ... gidudunicholas11@gmail.com
 
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Nicopee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
   <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicopee" />
   <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true&theme=radical" />
 
