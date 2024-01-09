@@ -4,10 +4,9 @@
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me ... gidudunicholas11@gmail.com
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicopee)](https://github.com/Nicopee/github-readme-stats)
+  <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicopee" />
 
-  
-  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true&theme=radical" />
+  <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true&theme=radical" />
 
 <!---
 Nicopee/Nicopee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
