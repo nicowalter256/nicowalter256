@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me ... gidudunicholas11@gmail.com
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true)
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true&theme=radical)
 
 <!---
