@@ -6,7 +6,9 @@
 
   <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicopee" />
   <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true&theme=radical" />
-  <img alt="steak" src="https://streak-stats.demolab.com/?user=Nicopee" />
+
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicopee)](https://git.io/streak-stats)
 
 <!---
 Nicopee/Nicopee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
