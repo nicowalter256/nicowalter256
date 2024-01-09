@@ -8,7 +8,7 @@
   <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true&theme=radical" />
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicopee)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nicopee&theme=dark)](https://git.io/streak-stats)
 
 <!---
 Nicopee/Nicopee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
