@@ -7,7 +7,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicopee)](https://github.com/Nicopee/github-readme-stats)
 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true&theme=radical)
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Nicopee&show_icons=true&theme=radical" />
 
 <!---
 Nicopee/Nicopee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
