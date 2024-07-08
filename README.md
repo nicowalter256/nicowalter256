@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nico 
+- 👋 Hi, I’m Nicholas 
 - 👀 I love flutter and dart and open source
-- 🌱 I’m currently a professional software developer
+- 🌱 I’m currently a professional flutter software developer
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me ... gidudunicholas11@gmail.com
   
