@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muyobo Nicholas 
 - 👀 I love flutter and dart and open source
-- 🌱 I’m currently a professional flutter developer
+- 🌱 I’m currently a professional senior flutter developer
 - 💞️ I’m looking to collaborate on with other developers
 - 📫 How to reach me ... gidudunicholas11@gmail.com
   
