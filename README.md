@@ -2,7 +2,6 @@
 - 👀 I love flutter and dart and open source
 - 🌱 I’m currently a professional senior flutter developer
 - 💞️ I’m looking to collaborate on with other developers
-- 📫 How to reach me ... gidudunicholas11@gmail.com
 - https://nico237.hashnode.dev/
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=nicowalter256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
