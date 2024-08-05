@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas 
-- 👀 I love flutter and dart and open source
+- 👀 I love flutter and dart
 - 🌱 I’m currently a professional senior flutter developer
 - 💞️ I’m looking to collaborate on with other developers
 - https://nico237.hashnode.dev/
