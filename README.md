@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicholas 
+- 👋 Hi, I’m Nicholas Muyobo 
 - 👀 I love flutter and dart
 - 🌱 I’m currently a professional senior flutter developer
 - 💞️ I’m looking to collaborate on with other developers
