@@ -7,8 +7,8 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=nicowalter256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-  <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicowalter256" />
-  <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nicowalter256&show_icons=true&theme=radical" />
+  <img alt="top langs" align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicowalter256" />
+  <img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=nicowalter256&show_icons=true&theme=radical" />
 
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=nicowalter256&theme=dark)](https://git.io/streak-stats)
