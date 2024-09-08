@@ -3,7 +3,7 @@
 - 🌱 I’m currently a professional senior flutter developer
 - 💞️ I’m looking to collaborate  with other developers
 - https://nico237.hashnode.dev/
-- 
+
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=nicowalter256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
