@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Nicholas 
+- 👋 Hi, I’m  Nicholas Walter
 - 👀 I love flutter, dart and communities
 - 🌱 I’m currently a professional senior flutter developer
 - 💞️ I’m looking to collaborate  with other developers
