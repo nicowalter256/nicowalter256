@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Nicholas
 - 👀 I love flutter, dart and communities
 - 🌱 I’m currently a professional senior flutter developer
-- 💞️ I’m looking to collaborate  with other developers
+- 💞️ I’m looking to collaborate  with developers
 - https://nico237.hashnode.dev/
   [![trophy](https://github-profile-trophy.vercel.app/?username=nicowalter256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicowalter256" />
