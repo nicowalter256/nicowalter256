@@ -1,6 +1,8 @@
 - 👋 Hi, I’m  Nicholas muyobo
 - 👀 I love flutter, dart and communities
-- 🌱 I’m currently a professional senior flutter developer
+- 🌱 I’m currently a professional senior developer
+- I do backend with laravel php framework
+- I have a good understanding of ReactJs, NextJs for web
 - 💞️ I’m looking to collaborate  with developers
 - https://nico237.hashnode.dev/
   [![trophy](https://github-profile-trophy.vercel.app/?username=nicowalter256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
