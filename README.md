@@ -1,7 +1,7 @@
-- 👋 Hi, I’m  Nicholas muyobo
+- 👋 Hi, I’m  Nicholas
 - 👀 I love flutter, dart and communities
 - 🌱 I’m currently a professional senior developer
-- I do backend with laravel php framework
+- I do backend with laravel (php) framework
 - I have a good understanding of ReactJs, NextJs for web
 - 💞️ I’m looking to collaborate  with developers
 - https://nico237.hashnode.dev/
