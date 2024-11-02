@@ -10,7 +10,7 @@
   <!---
   <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nicowalter256&show_icons=true&theme=radical" />
   --->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=nicowalter256&theme=dark)](https://git.io/streak-stats)
+  
 
 <!---
 nicowalter256/nicowalter256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
