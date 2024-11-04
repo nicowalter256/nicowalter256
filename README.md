@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Nicholas.
+- 👋 Hi, I’m  Nicholas
 - 👀 I love flutter, dart and communities
 - 🌱 I’m currently a professional senior developer
 - I do backend with laravel (php) framework
