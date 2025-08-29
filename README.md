@@ -7,6 +7,8 @@
 - https://gidudunicholas.dev/
 
   <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicowalter256" />
+
+   <p><a href="https://community.vaunt.dev/board/nicowalter256/achievements"><img src="https://api.vaunt.dev/v1/github/entities/nicowalter256/achievements/8d50131a-5390-4930-bf76-358636f52f0b?format=svg&style=raw" width="300"/></a></p>
  
   <!---
   <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nicowalter256&show_icons=true&theme=radical" />
