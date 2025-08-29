@@ -5,7 +5,7 @@
 - I have a good understanding of ReactJs, NextJs for web
 - 💞️ I’m looking to collaborate  with developers
 - https://gidudunicholas.dev/
-  [![trophy](https://github-profile-trophy.vercel.app/?username=nicowalter256&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
   <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicowalter256" />
  
   <!---
