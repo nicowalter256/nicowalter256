@@ -8,7 +8,7 @@ Senior Software Engineer focused on scalable Flutter systems, AI-powered mobile 
 Organizer of <strong>Flutter Kampala</strong> • Technical Writer • freeCodeCamp Contributor
 </p>
 
----
+
 
 ## 🚀 About Me
 
